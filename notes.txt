@@ -1,0 +1,6 @@
+defining functions
+first define the function - def ____function name___(variable name)
+the variable name does not matter within the defined function
+
+homework_20150421
+ex 19 - ex 21 (and maybe 22-25)
